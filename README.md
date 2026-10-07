@@ -23,7 +23,7 @@
 
 Soy una desarrolladora en formación apasionada por la programación y la creación de proyectos digitales. Me gusta aprender nuevas tecnologías, experimentar con código y convertir ideas en proyectos funcionales.
 
-He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis conocimientos y seguir desarrollando mis habilidades.
+He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis conocimientos y seguir desarrollando mis habilidades de liderazgo.
 
 ---
 
@@ -46,7 +46,7 @@ He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis co
 
 ### 🦋 BioWild
 
-**BioWild** es uno de los proyectos en los que he trabajado, aplicando mis conocimientos de desarrollo y programación.
+**BioWild** es uno de los proyectos en los que he trabajado y también he sido líder, aplicando mis conocimientos de desarrollo y programación.
 
 > 🌱 Un proyecto que me permitió aprender, experimentar y seguir creciendo como desarrolladora.
 

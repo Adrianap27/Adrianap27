@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="3780" height="1890" alt="banner" src="https://github.com/user-attachments/assets/0b7eba63-1fd5-4aa1-9560-bb7fdb0894c1" />
+<img width="3780" height="1890" alt="banner (1)" src="https://github.com/user-attachments/assets/56d7a8c0-20f8-4665-976d-ef71c59e9536" />
 
 ### Desarrolladora en formación | Python • HTML • CSS • JavaScript
 

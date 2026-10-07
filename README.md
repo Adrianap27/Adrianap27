@@ -42,7 +42,7 @@ He trabajado en proyectos como BioWild, donde fortalecí mis conocimientos y des
 
 ## Proyecto destacado
 
-### 🦋 BioWild
+###  BioWild
 
 **BioWild** es uno de los proyectos en los que he trabajado y también he sido líder, aplicando mis conocimientos de desarrollo, creatividad y programación.
 

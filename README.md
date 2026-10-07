@@ -17,9 +17,9 @@
 
 ## Sobre mí
 
-¡Hola! Soy **Adriiisitaaa** 👋
+¡Holaaa! Soy **Adrianaa** 
 
-Soy una desarrolladora en formación apasionada por la programación y la creación de proyectos digitales. Me gusta aprender nuevas tecnologías, experimentar con código y convertir ideas en proyectos funcionales.
+Soy una programadora en formación apasionada por la programación y la creación de proyectos digitales. Me gusta aprender nuevas tecnologías, experimentar con código y convertir ideas en proyectos funcionales.
 
 He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis conocimientos y seguir desarrollando mis habilidades de liderazgo.
 

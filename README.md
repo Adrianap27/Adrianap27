@@ -19,9 +19,9 @@
 
 ¡Holaaa! Soy **Adrianaa** 
 
-Soy una programadora en formación apasionada por la programación y la creación de proyectos digitales. Me gusta aprender nuevas tecnologías, experimentar con código y convertir ideas en proyectos funcionales.
+Soy una desarrolladora en formación apasionada por aprender, crear y explorar nuevas tecnologías. Me gusta convertir ideas en proyectos y asumir nuevos retos que me ayuden a crecer.
 
-He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis conocimientos y seguir desarrollando mis habilidades de liderazgo.
+He trabajado en proyectos como BioWild, donde fortalecí mis conocimientos y desarrollé habilidades de liderazgo, comunicación y trabajo en equipo.
 
 ---
 
@@ -40,7 +40,7 @@ He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis co
 
 ---
 
-## 🌿 Proyecto destacado
+## Proyecto destacado
 
 ### 🦋 BioWild
 
@@ -50,7 +50,7 @@ He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis co
 
 ---
 
-## 🚀 Lo que estoy aprendiendo
+## Lo que estoy aprendiendo
 
 - 💻 Desarrollo web
 - 🐍 Python
@@ -62,8 +62,7 @@ He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis co
 ---
 
 ## Mi objetivo
-
-Seguir aprendiendo, crear proyectos interesantes y mejorar cada día como desarrolladora. ✨
+Mi objetivo es seguir creciendo tanto a nivel personal como profesional, mantener siempre la curiosidad por aprender cosas nuevas y enfrentar cada desafío como una oportunidad para mejorar. 
 
 <div align="center">
 

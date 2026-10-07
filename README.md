@@ -2,10 +2,7 @@
 
 <img width="3780" height="1890" alt="banner" src="https://github.com/user-attachments/assets/0b7eba63-1fd5-4aa1-9560-bb7fdb0894c1" />
 
-# 💜 Adriiisitaaa 💙
-
-
-### 👩‍💻 Desarrolladora en formación | Python • HTML • CSS • JavaScript
+### Desarrolladora en formación | Python • HTML • CSS • JavaScript
 
 <p>
   <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white">
@@ -18,7 +15,7 @@
 
 ---
 
-## 💜 Sobre mí
+## Sobre mí
 
 ¡Hola! Soy **Adriiisitaaa** 👋
 
@@ -28,7 +25,7 @@ He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis co
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 <div align="center">
 
@@ -47,9 +44,9 @@ He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis co
 
 ### 🦋 BioWild
 
-**BioWild** es uno de los proyectos en los que he trabajado y también he sido líder, aplicando mis conocimientos de desarrollo y programación.
+**BioWild** es uno de los proyectos en los que he trabajado y también he sido líder, aplicando mis conocimientos de desarrollo, creatividad y programación.
 
-> 🌱 Un proyecto que me permitió aprender, experimentar y seguir creciendo como desarrolladora.
+> 🌱 Un proyecto que me permitió aprender, experimentar y seguir creciendo.
 
 ---
 
@@ -64,14 +61,9 @@ He trabajado en proyectos como **BioWild**, donde pude poner en práctica mis co
 
 ---
 
-## 💜 Mi objetivo
+## Mi objetivo
 
 Seguir aprendiendo, crear proyectos interesantes y mejorar cada día como desarrolladora. ✨
 
 <div align="center">
 
-### 💙 Gracias por visitar mi perfil 💜
-
-⭐ ¡No dudes en explorar mis proyectos! ⭐
-
-</div>

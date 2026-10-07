@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Banner de Adriiisitaaa">
+<img width="3780" height="1890" alt="banner" src="https://github.com/user-attachments/assets/0b7eba63-1fd5-4aa1-9560-bb7fdb0894c1" />
 
 # 💜 Adriiisitaaa 💙
+
 
 ### 👩‍💻 Desarrolladora en formación | Python • HTML • CSS • JavaScript
 
 <p>
   <img src="https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-5A189A?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-3A86FF?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-4361EE?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
